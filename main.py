@@ -1,1 +1,1 @@
-print("Good Boy Bad Boy.")
+print("Good Boy Bad Boy Good.")
